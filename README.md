@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ME
-- 👀 I’m interested in everything!! :)
-- 🌱 I’m currently getting some knowledge in Data Science at IP PARIS
-- 💞️ I’m looking to collaborate on whatever you think could be fun and challenging!
-- 📫 How to reach me : My email is : joelsoffo98@gmail.com
+- 👋 Welcome to my github
 
 <!---
 JoelSOFFO/JoelSOFFO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
